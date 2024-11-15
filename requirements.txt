@@ -1,0 +1,7 @@
+jupyter
+notebook
+pandas
+seaborn
+pyeutl @ git+https://github.com/jabrell/pyeutl
+numpy 
+matplotlib
